@@ -15,14 +15,12 @@ sau khi hoàn thành website sẽ xuất ra một file:”data.json”. Người
 
 
 Giao diện điều khiển của người dùng:
-    Install: npm install
-    Run: npm start
-    Debug: npm run debug
+    Nút "install": cài đặt.
+    Nút "Run": Khởi chạy server chính.
+    Nút "Debug": Khởi chạy server debug.
+    Nút "Reset data": khởi tạo lại data như ban đầu
+    Nút "Set data" : nhập vào đường link chứa file data.json (mặc định ở : "/data/")
 
-    Reset data: npm run set-data default
-    Set data from file: npm run set-data <./path/to/file>
 
-
-The server's IP will appear in command line when you run it.
-
+    Ip của máy chủ sẽ hiện ra sau khi khởi chạy "Run" hoặc "Debug". Các máy con truy cập vào IP để thi.
 
