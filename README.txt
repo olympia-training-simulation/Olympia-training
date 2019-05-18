@@ -1,6 +1,5 @@
-Requirements:
-    Node.js: newest
-    Python: 3 or above
+yêu cầu:
+    Node.js: Phiên bản mới nhất (Sẽ bao gồm trong file cài đặt)
 
     * Should be accessed using newest version of Chrome/Firefox/CocCoc/...
 
