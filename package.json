@@ -11,6 +11,7 @@
   "author": "KhanhLuong",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^3.0.6",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.3",
     "cross-env": "^5.2.0",
@@ -19,6 +20,7 @@
     "helmet": "^3.13.0",
     "internal-ip": "^3.0.1",
     "md5": "^2.2.1",
+    "nedb-promise": "^2.0.1",
     "nodemon": "^1.18.10",
     "npm": "^6.9.0",
     "pug": "^2.0.3",
